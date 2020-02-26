@@ -1,2 +1,2 @@
-# Michi
+# Study
 Student
